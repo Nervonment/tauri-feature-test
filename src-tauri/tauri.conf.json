@@ -51,7 +51,12 @@
       "csp": null
     },
     "updater": {
-      "active": false
+      "active": true,
+      "endpoints": [
+        "https://nervonment.github.io/update_page/update.json"
+      ],
+      "dialog": true,
+      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDIzMjhBNUU0MjUzOENBNjQKUldSa3lqZ2w1S1VvSXljdXhmc0tXT2o4ZmJjZGM1VFJ1RmtMTGpQR3g2ZlVSRnp1TDIzNW5CMTAK="
     },
     "windows": [
       {
